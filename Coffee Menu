@@ -3,7 +3,7 @@
 <head>
 <meta name="Coffee Types" content="Menu">
 <title>Responsive Layout</title>
-<style type="Coffee">
+<style> 
 
 * {
   box-sizing: border-box;
