@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="utf-8">
+<meta name="Coffee Types" content="Menu">
 <title>Responsive Layout</title>
-<style>
+<style type="Coffee">
 
 * {
   box-sizing: border-box;
@@ -119,10 +119,10 @@ p {
 <h1>Coffee Menu</h1>
 
 <div class="row">
-  <div class="col-lg-6 col-m<img src="url" alt="some_text" style="width:width;height:height;"><p>Cappuccino: An Italian coffee drink that is traditionally prepared with double espresso, hot milk, and steamed milk foam <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Wet_Cappuccino_with_heart_latte_art.jpg" alt="Cappuccino" height="100" width="150"></p></div>
-  <div class="col-lg-6 col-md-6"><p>Latte: A latte is a coffee drink made with espresso and steamed milk <img src="http://www.caffecoffea.com/wp-content/uploads/2014/11/cafe-latte.jpg" alt="Smiley face" height="100" width="150"> </p></div>
-  <div class="col-lg-6 col-md-6"><p> Caffè mocha: A caffè mocha, also called mocaccino, is a chocolate-flavored variant of a caffè latte <img src="http://www.caffeineinformer.com/wp-content/caffeine/cafe-mocha.jpg" alt="Smiley face" height="100" width="125"></p></div>
-  </div>
-
+ <div class="col-lg-6 col-md-6"><p>Pour Over Coffee</p></div>
+ <div class="col-lg-6 col-md-6"><p>Latte</p></div>
+ <div class="col-lg-6 col-md-6"><p>Espresso</p></div>
 </body>
+</div>
 </html>
+
